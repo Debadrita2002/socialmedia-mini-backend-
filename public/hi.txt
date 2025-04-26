@@ -1,0 +1,6 @@
+user post likh payee
+login and register
+logout
+post creation
+post like
+post delete
